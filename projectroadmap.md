@@ -15,8 +15,14 @@ https://github.com/NateO121/Medication_-Reminder_-For_The-_Elderly
 Sprint #2
 
 - [ ] Make changes to code to cater to run how I want it to
-- [ ] Make it run in a GUI
-- [ ] Update my projectroadmap
+- [x] Fix errors that dont allow it to run
+- [x] Make font/color system more efficient
+- [x] Make it run in a GUI
+- [x] add picture
+- [x] add a welcome screen
+- [x] Update my projectroadmap
+- [ ] fix set reminders
+- [ ] fix make sure things save to CSV file
 
 Sprint #3
 - [ ] Finnish coding and ensure everything works properly
