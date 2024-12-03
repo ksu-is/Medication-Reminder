@@ -26,7 +26,7 @@ Sprint #2
 
 Sprint #3
 - [ ] Finnish coding and ensure everything works properly
-- [ ] Create Powerpoint
-- [ ] Assign time to present on temas
-- [ ] Prepare for presentation
-- [ ] Present
+- [x] Create Powerpoint
+- [x] Assign time to present on temas
+- [x] Prepare for presentation
+- [x] Present
